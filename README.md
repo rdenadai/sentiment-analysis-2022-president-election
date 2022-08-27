@@ -34,7 +34,6 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#BrasilComBolsonaro](https://twitter.com/search?q=%23BrasilComBolsonaro&src=typed_query&f=live),
 [#BrasilComBolsonaro22](https://twitter.com/search?q=%23BrasilComBolsonaro22&src=typed_query&f=live),
 [#BolsonaroReeleitoEm2022](https://twitter.com/search?q=%23BolsonaroReeleitoEm2022&src=typed_query&f=live),
-["Meu Presidente"](https://twitter.com/search?q=%22Meu%20Presidente%22&src=typed_query&f=live),
 [#BolsonaroNoPrimeiroTurno](https://twitter.com/search?q=%23BolsonaroNoPrimeiroTurno&src=typed_query&f=live),
 [#CapitaoDoPovoVaiVencerDeNovo](https://twitter.com/search?q=%23CapitaoDoPovoVaiVencerDeNovo&src=typed_query&f=live),
 [#BolsonaroNoPanico](https://twitter.com/search?q=%23BolsonaroNoPanico&src=typed_query&f=live),
@@ -83,6 +82,7 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 
 ##### **Geral**
 ---
+["Meu Presidente"](https://twitter.com/search?q=%22Meu%20Presidente%22&src=typed_query&f=live),
 [#É22](https://twitter.com/search?q=%23%C3%8922&src=typed_query&f=live),
 [#É13](https://twitter.com/search?q=%23%C3%8913&src=typed_query&f=live),
 [#É12](https://twitter.com/search?q=%23%C3%8912&src=typed_query&f=live),

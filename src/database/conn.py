@@ -1,9 +1,9 @@
-import os
+from os import getcwd
 
 from playhouse.pool import PooledSqliteExtDatabase
 
 db_name: str = "sentiment-analysis-2022-president-election.db"
-path = os.getcwd().split("src")[0]
+path = getcwd().split("src")[0]
 
 db = PooledSqliteExtDatabase(
     f"{path}/{db_name}",

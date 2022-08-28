@@ -34,19 +34,27 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#BrasilComBolsonaro](https://twitter.com/search?q=%23BrasilComBolsonaro&src=typed_query&f=live),
 [#BrasilComBolsonaro22](https://twitter.com/search?q=%23BrasilComBolsonaro22&src=typed_query&f=live),
 [#BolsonaroReeleitoEm2022](https://twitter.com/search?q=%23BolsonaroReeleitoEm2022&src=typed_query&f=live),
+[#BolsonaroReeleito](https://twitter.com/hashtag/BolsonaroReeleito?src=hashtag_click&f=live),
+[#Bolsonaro22ate2026](https://twitter.com/hashtag/Bolsonaro22ate2026?src=hashtag_click&f=live),
 [#BolsonaroNoPrimeiroTurno](https://twitter.com/search?q=%23BolsonaroNoPrimeiroTurno&src=typed_query&f=live),
 [#CapitaoDoPovoVaiVencerDeNovo](https://twitter.com/search?q=%23CapitaoDoPovoVaiVencerDeNovo&src=typed_query&f=live),
 [#BolsonaroNoPanico](https://twitter.com/search?q=%23BolsonaroNoPanico&src=typed_query&f=live),
 [#BolsonaroNoFlow](https://twitter.com/search?q=%23BolsonaroNoFlow&src=typed_query&f=live),
 [#BolsonaroNoJN](https://twitter.com/search?q=%23BolsonaroNoJN&src=typed_query&f=live),
+[#BolsonaroNaBand](https://twitter.com/hashtag/BolsonaroNaBand?src=hashtag_click&f=live),
 [#EJairOuJaEra](https://twitter.com/search?q=%23EJairOuJaEra&src=typed_query&f=live),
 [#BolsonaroNoIronberg](https://twitter.com/search?q=%23BolsonaroNoIronberg&src=typed_query&f=live),
-[#CapitaoDoPovoVaiVencerDeNovo](https://twitter.com/search?q=%23CapitaoDoPovoVaiVencerDeNovo&src=typed_query&f=live)
+[#CapitaoDoPovoVaiVencerDeNovo](https://twitter.com/search?q=%23CapitaoDoPovoVaiVencerDeNovo&src=typed_query&f=live),
+[#SouMulherEVotoBolsonaro](https://twitter.com/search?q=%23SouMulherEVotoBolsonaro&src=trend_click&f=live&vertical=trends),
+[#MulheresComBolsonaro](https://twitter.com/search?q=%23MulheresComBolsonaro&src=trend_click&f=live&vertical=trends),
 [#BolsonaroMentiroso](https://twitter.com/search?q=%23BolsonaroMentiroso&src=typed_query&f=live),
 [#MentirosoNoJN](https://twitter.com/search?q=%23MentirosoNoJN&src=typed_query&f=live),
+[#BolsonaroNaRedeTV](https://twitter.com/search?q=%23BolsonaroNaRedeTV&src=trend_click&f=live&vertical=trends),
+[#bolsonarocorrupto](https://twitter.com/search?q=%23bolsonarocorrupto&src=trend_click&f=live&vertical=trends)
 [#ForaBolsonaroMentiroso](https://twitter.com/search?q=%23ForaBolsonaroMentiroso&src=typed_query&f=live),
 ["BOLSONARO CAGÃO"](https://twitter.com/search?q=%22BOLSONARO%20CAG%C3%83O%22&&src=typed_query&f=livey),
 [#BolsonaroGenocida](https://twitter.com/search?q=%23BolsonaroGenocida&src=typed_query&f=live),
+["BOLSONARO ODEIA MULHERES"](https://twitter.com/search?q=%22BOLSONARO%20ODEIA%20MULHERES%22&src=trend_click&f=live&vertical=trends)
 
 ##### **Lula**
 ---
@@ -55,7 +63,12 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#Lula2022](https://twitter.com/search?q=%23Lula2022&src=typed_query&f=live),
 [#BrasilDaEsperança](https://twitter.com/search?q=%23BrasilDaEsperan%C3%A7a&src=typed_query&f=live),
 [#Vote13](https://twitter.com/search?q=%23Vote13&src=typed_query&f=live),
+[#LulaNo1ºTurno](https://twitter.com/hashtag/LulaNo1%C2%BATurno?src=hashtag_click&f=live),
+[#LulaNoPrimeiroTurno](https://twitter.com/search?q=%23LulaNoPrimeiroTurno&src=typed_query&f=live),
 [#LulaNoJN](https://twitter.com/search?q=%23LulaNoJN&src=typed_query&f=live),
+[#LulaNaBand](https://twitter.com/hashtag/LulaNaBand?src=hashtag_click&f=live),
+[#LulaEoPT13deFioApavio](https://twitter.com/hashtag/LulaEoPT13deFioApavio?src=hashtag_click&f=live),
+[#LulaEoPTjaNo1ºTurno](https://twitter.com/hashtag/LulaEoPTjaNo1%C2%BATurno?src=hashtag_click&f=live),
 ["Lulinha"](https://twitter.com/search?q=%22Lulinha%22&src=typed_query&f=live),
 [#LulaLadraoSeuLugarENaPrisao](https://twitter.com/search?q=%23LulaLadraoSeuLugarENaPrisao&src=typed_query&f=live),
 [#LADRAONOJN](https://twitter.com/search?q=%23LADRAONOJN&src=typed_query&f=live),
@@ -66,24 +79,30 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 ##### **Ciro**
 ---
 [#CiroPresidente12](https://twitter.com/search?q=%23CiroPresidente12&src=typed_query&f=live),
+[#Ciro12Presidente](https://twitter.com/hashtag/Ciro12Presidente?src=hashtag_click&f=live),
 [#Ciro2022](https://twitter.com/search?q=%23Ciro2022&src=typed_query&f=live),
 [#CiroGomes](https://twitter.com/search?q=%23CiroGomes&src=typed_query&f=live),
-[#PrefiroCiro](https://twitter.com/search?q=%23PrefiroCiro&src=typed_query&f=live)
+[#TôComCiro12](https://twitter.com/hashtag/T%C3%B4ComCiro12?src=hashtag_click&f=live),
+[#PrefiroCiro](https://twitter.com/search?q=%23PrefiroCiro&src=typed_query&f=live),
 [#CiristaSegueCirista](https://twitter.com/search?q=%23CiristaSegueCirista&src=typed_query&f=live),
 [#CiroTV](https://twitter.com/search?q=%23CiroTV&src=trend_click&f=live&vertical=trends)
 [#CiroNoJN](https://twitter.com/search?q=%23CiroNoJN&src=typed_query&f=live),
-[#cironojornalnacional](https://twitter.com/search?q=%23cironojornalnacional&src=typed_query&f=live)
+[#cironojornalnacional](https://twitter.com/search?q=%23cironojornalnacional&src=typed_query&f=live),
+[#CiroNaBand](https://twitter.com/hashtag/CiroNaBand?src=hashtag_click&f=live)
 
 ##### **Simone Tebet**
 ---
 [#SimoneTebet](https://twitter.com/hashtag/SimoneTebet?src=hashtag_click&f=live),
 [#SimonePresidente15](https://twitter.com/hashtag/SimonePresidente15?src=hashtag_click&f=live),
+[#SimoneTaSubindo](https://twitter.com/hashtag/SimoneTaSubindo?src=hashtag_click&f=live),
+[#SimoneNoSegundoTurno](https://twitter.com/hashtag/SimoneNoSegundoTurno?src=hashtag_click&f=live),
 [#SimonenoJN](https://twitter.com/search?q=%23SimonenoJN&src=typed_query&f=live),
 [#SimoneTebetNoJN](https://twitter.com/hashtag/SimoneTebetNoJN?src=hashtag_click&f=live)
 
 ##### **Geral**
 ---
 ["Meu Presidente"](https://twitter.com/search?q=%22Meu%20Presidente%22&src=typed_query&f=live),
+[#DebateNaBand](https://twitter.com/search?q=%23DebateNaBand&src=trend_click&f=live&vertical=trends),
 [#É22](https://twitter.com/search?q=%23%C3%8922&src=typed_query&f=live),
 [#É13](https://twitter.com/search?q=%23%C3%8913&src=typed_query&f=live),
 [#É12](https://twitter.com/search?q=%23%C3%8912&src=typed_query&f=live),

@@ -1,4 +1,4 @@
-HASHTAGS = (
+HASHTAGS: tuple[str, ...] = (
     "#Bolsonaro22",
     "#BrasilComBolsonaro",
     "#BrasilComBolsonaro22",

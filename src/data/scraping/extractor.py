@@ -11,13 +11,13 @@ from src.database.models import HashtagComments
 from src.logger import log
 
 
-def run_hashtag(n_posts_2_extract, hashtag):
+def run_hashtag(n_posts_2_extract: int, hashtag: str) -> dict:
     print(f"- Collecting hashtag : {hashtag}")
     tw = TwitterTagsClient(n_posts_2_extract=n_posts_2_extract)
     return tw.load_tags(hashtag)
 
 
-def run_save_hashtag(item):
+def run_save_hashtag(item: dict) -> dict:
     num_saved_comments = 0
     hashtag = item["hashtag"]
     for comment in item["comments"]:
@@ -29,9 +29,9 @@ def run_save_hashtag(item):
     return {"hashtag": hashtag, "num_saved_comments": num_saved_comments}
 
 
-def main(hashtags: list[str]):
+def main(hashtags: tuple[str, ...]):
     n_chunks: int = 5
-    n_posts_2_extract: int = 10
+    n_posts_2_extract: int = 2
 
     with ProcessPoolExecutor() as executor:
         for hashtags_ in chunks(hashtags, n_chunks):

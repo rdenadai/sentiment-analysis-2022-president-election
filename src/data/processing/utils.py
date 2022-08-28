@@ -1,5 +1,6 @@
 from functools import lru_cache
 from string import punctuation
+from typing import Any, Iterator
 from unicodedata import normalize
 
 import nltk
@@ -7,23 +8,23 @@ import spacy
 from nltk.corpus import stopwords
 
 
-def chunks(lista, n):
+def chunks(l_iter: list, n: int) -> Iterator[list]:
     # looping till length l
-    for i in range(0, len(lista), n):
-        yield lista[i : i + n]
+    for i in range(0, len(l_iter), n):
+        yield l_iter[i : i + n]
 
 
 @lru_cache(maxsize=256)
-def is_number(s):
+def is_number(value: Any) -> bool:
     try:
-        complex(s)  # for int, long, float and complex
+        complex(value)  # for int, long, float and complex
     except ValueError:
         return False
     return True
 
 
 @lru_cache(maxsize=256)
-def get_stopwords():
+def get_stopwords() -> tuple[list[str], list[str]]:
     stpwords = stopwords.words("portuguese")
     punkt = [pk for pk in punctuation]
     rms = ["um", "não", "mais", "muito", "sem", "estou", "sou"]
@@ -34,11 +35,11 @@ def get_stopwords():
     return stpwords, punkt
 
 
-def remover_acentos(txt):
+def remover_acentos(txt: str) -> str:
     return normalize("NFKD", txt).encode("ASCII", "ignore").decode("ASCII")
 
 
-def normalizar(phrase, sort=True):
+def normalizar(phrase: str, sort: bool = True) -> str:
     if phrase:
         phrase = remover_acentos(phrase.lower())
         for punkt in punctuation:

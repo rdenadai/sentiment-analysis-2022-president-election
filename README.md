@@ -70,6 +70,7 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#CiroGomes](https://twitter.com/search?q=%23CiroGomes&src=typed_query&f=live),
 [#PrefiroCiro](https://twitter.com/search?q=%23PrefiroCiro&src=typed_query&f=live)
 [#CiristaSegueCirista](https://twitter.com/search?q=%23CiristaSegueCirista&src=typed_query&f=live),
+[#CiroTV](https://twitter.com/search?q=%23CiroTV&src=trend_click&f=live&vertical=trends)
 [#CiroNoJN](https://twitter.com/search?q=%23CiroNoJN&src=typed_query&f=live),
 [#cironojornalnacional](https://twitter.com/search?q=%23cironojornalnacional&src=typed_query&f=live)
 

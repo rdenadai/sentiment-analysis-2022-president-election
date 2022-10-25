@@ -1,4 +1,4 @@
-# Sentiment Analysis for 2018 Presidential Election
+# Sentiment Analysis for 2022 Presidential Election
 
 Análise de sentimentos relacionados aos candidatos a Eleição para a presidência de 2022.
 
@@ -18,7 +18,7 @@ Analisar as valências e emoções em comentários (textos) das principais redes
 
 Utilizar modelo de emoção categórico baseado em emoções com uma abordagem supervisionada composta por três etapas:
 
- - *Coleta dos comentários* - coletar comentários dos candidatos melhores classificados nas pesquisas eleitorais para presidente (Jair Bolsonaro, Lula, e Ciro Gomes) nas redes sociais (Facebook, Instagram, Twitter e Youtube);
+ - *Coleta dos comentários* - coletar comentários dos candidatos melhores classificados nas pesquisas eleitorais para presidente (Jair Bolsonaro, Lula, e Ciro Gomes) nas redes sociais (Twitter);
 
  - *Classificação dos comentários* - tratar os comentários e realizar testes para escolher o melhor classificador e os melhores datasets a serem utilizados para gerar categorizar as emoções nos comentários coletados;
 

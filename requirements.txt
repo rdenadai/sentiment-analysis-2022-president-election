@@ -1,0 +1,6 @@
+emoji==2.0.0
+nltk==3.7
+spacy==3.4.1
+selenium==4.4.3
+peewee==3.15.2
+wordcloud==1.8.2.2

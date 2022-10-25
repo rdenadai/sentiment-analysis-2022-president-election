@@ -39,6 +39,7 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#BolsonaroReeleitoEm2022](https://twitter.com/search?q=%23BolsonaroReeleitoEm2022&src=typed_query&f=live),
 [#BolsonaroReeleito](https://twitter.com/hashtag/BolsonaroReeleito?src=hashtag_click&f=live),
 [#Bolsonaro22ate2026](https://twitter.com/hashtag/Bolsonaro22ate2026?src=hashtag_click&f=live),
+[#Dia30Vote22](https://twitter.com/hashtag/Dia30Vote22?src=hashtag_click&f=live),
 [#FechadoComBolsonaroAte2026](https://twitter.com/hashtag/FechadoComBolsonaroAte2026?src=hashtag_click&f=live),
 [#BolsonaroNoPrimeiroTurno](https://twitter.com/search?q=%23BolsonaroNoPrimeiroTurno&src=typed_query&f=live),
 [#CapitaoDoPovoVaiVencerDeNovo](https://twitter.com/search?q=%23CapitaoDoPovoVaiVencerDeNovo&src=typed_query&f=live),
@@ -58,6 +59,8 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#ForaBolsonaroMentiroso](https://twitter.com/search?q=%23ForaBolsonaroMentiroso&src=typed_query&f=live),
 ["BOLSONARO CAGÃO"](https://twitter.com/search?q=%22BOLSONARO%20CAG%C3%83O%22&&src=typed_query&f=livey),
 [#BolsonaroGenocida](https://twitter.com/search?q=%23BolsonaroGenocida&src=typed_query&f=live),
+[#BolsonaroPedofilo](https://twitter.com/hashtag/BolsonaroPedofilo?src=hashtag_click&f=live),
+[#PintouUmClima](https://twitter.com/hashtag/PintouUmClima?src=hashtag_click&f=live),
 ["BOLSONARO ODEIA MULHERES"](https://twitter.com/search?q=%22BOLSONARO%20ODEIA%20MULHERES%22&src=trend_click&f=live&vertical=trends),
 [Maçonaro](https://twitter.com/search?q=Ma%C3%A7onaro&src=trend_click&f=live&vertical=trends)
 
@@ -72,6 +75,7 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#Lula13Presidente](https://twitter.com/hashtag/Lula13Presidente?src=hashtag_click&f=live),
 [#LulaNoSegundoTurno](https://twitter.com/search?q=%23LulaNoSegundoTurno&src=trend_click&f=live),
 [#FazoL](https://twitter.com/hashtag/FazoL?src=hashtag_click&f=live),
+[#Dia30Vote13](https://twitter.com/search?q=%23Dia30Vote13&src=typed_query&f=live),
 [#VotoUtilPraDerrotarOInutil](https://twitter.com/hashtag/VotoUtilPraDerrotarOInutil?src=hashtag_click&f=live),
 [#LulaNo1ºTurno](https://twitter.com/hashtag/LulaNo1%C2%BATurno?src=hashtag_click&f=live),
 [#LulaNoPrimeiroTurno](https://twitter.com/search?q=%23LulaNoPrimeiroTurno&src=typed_query&f=live),
@@ -85,8 +89,10 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 [#LADRAONOJN](https://twitter.com/search?q=%23LADRAONOJN&src=typed_query&f=live),
 [#BonnerTchutchucaDoLadrao](https://twitter.com/search?q=%23BonnerTchutchucaDoLadrao&src=typed_query&f=live),
 [#PTNuncaMais](https://twitter.com/search?q=%23PTNuncaMais&src=typed_query&f=live),
+[#LulaNoFlow](https://twitter.com/search?q=%23LulaNoFlow&src=trend_click&f=live&vertical=trends),
 [#LulaNuncamais](https://twitter.com/hashtag/LulaNuncamais?src=hashtag_click&f=live),
 [#QuemAnulaVotaLula](https://twitter.com/hashtag/QuemAnulaVotaLula?src=hashtag_click&f=live),
+[#LulaTransfobico](https://twitter.com/hashtag/LulaTransfobico?src=hashtag_click&f=live),
 [#EsquerdaNuncaMaisNoBrasil](https://twitter.com/hashtag/EsquerdaNuncaMaisNoBrasil?src=hashtag_click&f=live),
 [#DerreteLula](https://twitter.com/search?q=%23DerreteLula&src=typed_query&f=live)
 
@@ -117,6 +123,7 @@ Utilizar modelo de emoção categórico baseado em emoções com uma abordagem s
 ---
 ["Meu Presidente"](https://twitter.com/search?q=%22Meu%20Presidente%22&src=typed_query&f=live),
 [#DebateNaBand](https://twitter.com/search?q=%23DebateNaBand&src=trend_click&f=live&vertical=trends),
+[#centraldaseleições](https://twitter.com/hashtag/centraldaselei%C3%A7%C3%B5es?src=hashtag_click&f=live),
 [#DebateNoSBT](https://twitter.com/hashtag/DebateNoSBT?src=hashtag_click&f=live),
 [#DebateNaGlobo](https://twitter.com/hashtag/DebateNaGlobo?src=hashtag_click&f=live),
 [#DebatePresidente](https://twitter.com/hashtag/DebatePresidente?src=hashtag_click&f=live),

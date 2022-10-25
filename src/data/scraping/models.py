@@ -52,10 +52,25 @@ class TwitterTagsClient:
         tz_params = {"timezoneId": "America/Sao_Paulo"}
         driver.execute_cdp_cmd("Emulation.setTimezoneOverride", tz_params)
 
-        driver.get(
-            f"https://twitter.com/search?q={urllib.parse.quote(hashtag)}%20lang%3Apt&src=typed_query&f=live"
+        data: dict = {"hashtag": hashtag, "comments": []}
+        comments = self._load_from_url(
+            driver,
+            f"https://twitter.com/search?q={urllib.parse.quote(hashtag)}%20lang%3Apt&src=typed_query&f=live",
         )
+        if not comments:
+            comments = self._load_from_url(
+                driver,
+                f"https://twitter.com/search?q={urllib.parse.quote(hashtag)}%22&src=trend_click&vertical=trends",
+            )
+        data["comments"] = comments
+        return data
 
+    def _load_from_url(self, driver: webdriver.Chrome, url: str) -> list:
+        comments: list = []
+
+        driver.get(url)
+
+        num = 10
         tweets: list = []
         while (_ := len(tweets)) == 0:
             try:
@@ -63,8 +78,13 @@ class TwitterTagsClient:
                 tweets = driver.find_elements(By.TAG_NAME, "article")
             except Exception as error:
                 log.error(f"ERROR: AdaptiveFiltersBar-target not found : {error}")
+            num -= 1
+            if num <= 0:
+                break
 
-        data: dict = {"hashtag": hashtag, "comments": []}
+        if not tweets:
+            return comments
+
         for _ in range(self.n_posts_2_extract + 1):
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
             sleep(1)
@@ -87,7 +107,7 @@ class TwitterTagsClient:
                         comment_: str = self.treat_comment(comment.text.strip())
                         date_: Arrow = self.treat_data(date)
 
-                        data["comments"].append(
+                        comments.append(
                             {
                                 "hash": sha256(
                                     (f"{username_}|{comment_}").encode("ascii", "ignore")
@@ -101,4 +121,4 @@ class TwitterTagsClient:
                 except Exception as error:
                     log.error(f"ERROR: username or comment not found : {error}")
         driver.close()
-        return data
+        return comments

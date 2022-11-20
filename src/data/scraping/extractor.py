@@ -1,8 +1,11 @@
+import gc
 from concurrent.futures import ProcessPoolExecutor
 from functools import partial
+from multiprocessing import cpu_count
 from time import perf_counter
 
 from peewee import DoesNotExist
+
 from src.data.processing.utils import chunks
 from src.data.scraping.hashtags import HASHTAGS
 from src.data.scraping.models import TwitterTagsClient
@@ -29,16 +32,14 @@ def run_save_hashtag(item: dict) -> dict:
     return {"hashtag": hashtag, "num_saved_comments": num_saved_comments}
 
 
-def main(hashtags: tuple[str, ...]):
+def main(hashtags: tuple[str, ...]) -> int:
     n_chunks: int = 5
     n_posts_2_extract: int = 2
 
-    with ProcessPoolExecutor() as executor:
+    with ProcessPoolExecutor(max_workers=cpu_count() * 2) as executor:
         for hashtags_ in chunks(hashtags, n_chunks):
             start_time = perf_counter()
-            contents = list(
-                executor.map(partial(run_hashtag, n_posts_2_extract), hashtags_, chunksize=1)
-            )
+            contents = list(executor.map(partial(run_hashtag, n_posts_2_extract), hashtags_, chunksize=1))
             log.info(f"--- Load tweets took {round(perf_counter() - start_time, 2)}s ---")
             with db.atomic() as txn:
                 saved = list(executor.map(run_save_hashtag, contents, chunksize=25))
@@ -49,6 +50,10 @@ def main(hashtags: tuple[str, ...]):
                     f"--- # of tweets for : {item['hashtag']} => {len(contents[i]['comments'])}/{item['num_saved_comments']}"
                 )
 
+    return 0
+
 
 if __name__ == "__main__":
-    main(HASHTAGS)
+    gc.set_threshold(100_000, 1_000, 1_000)
+    gc.freeze()
+    raise SystemExit(main(HASHTAGS))
